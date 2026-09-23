@@ -1,0 +1,11 @@
+# PyInstaller build output
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Trainer runtime state (created on the PC, not in the repo)
+chat_trainer_config.json
